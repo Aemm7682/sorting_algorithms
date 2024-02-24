@@ -1,6 +1,6 @@
 #include "sort.h"
 /**
- * swab_node - function to swab 2 nodes
+ * swap_node - function to swab 2 nodes
  * @x: is anode
  * @y: is a node
  * Return: void
